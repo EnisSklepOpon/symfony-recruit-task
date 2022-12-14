@@ -21,3 +21,5 @@ Columns spec:
 * 3 - producer item code (mpn)
 * 4 - ean
 * 5 - producer name
+
+Additionaly we should skip records with value "NARZEDZIA WARSZTAT" in column "5".
